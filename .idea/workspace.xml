@@ -47,8 +47,8 @@
       <file leaf-file-name="gallery02.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallery02.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="389" column="72" lean-forward="false" selection-start-line="389" selection-start-column="72" selection-end-line="389" selection-end-column="72" />
+            <state relative-caret-position="510">
+              <caret line="395" column="74" lean-forward="false" selection-start-line="395" selection-start-column="74" selection-end-line="395" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -253,7 +253,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16738000" />
+    <option name="totallyTimeSpent" value="17985000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -644,8 +644,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gallery02.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="389" column="72" lean-forward="false" selection-start-line="389" selection-start-column="72" selection-end-line="389" selection-end-column="72" />
+        <state relative-caret-position="510">
+          <caret line="395" column="74" lean-forward="false" selection-start-line="395" selection-start-column="74" selection-end-line="395" selection-end-column="74" />
           <folding />
         </state>
       </provider>
