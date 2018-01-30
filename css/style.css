@@ -1209,8 +1209,8 @@ a.download-link span i{
 }
 
 .page-content.parallax{
-    padding-top: 100px;
-    padding-bottom: 30px;
+    padding-top: 85px;
+    padding-bottom: 1px;
     background-attachment: fixed;
     background-repeat: no-repeat;
     background-size: cover;
