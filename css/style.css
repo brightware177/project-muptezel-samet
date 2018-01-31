@@ -1164,7 +1164,7 @@ a.download-link span i{
 }
 
 .img-bkg01{
-    background-image: url('../img/pics/img-bkg01.jpg');
+    background-image: url('../img/pics/2a063a02132638ca27b15fdb4342e4f8.jpg');
 }
 
 .img-bkg02{
@@ -2109,7 +2109,8 @@ blockquote{
     -webkit-transition: all 2s ease-in-out 0s;
     -moz-transition: all 2s ease-in-out 0s;
     -o-transition: all 2s ease-in-out 0s;
-
+    width: 360px;
+    height: 216px;
     opacity: 1;
 }
 
