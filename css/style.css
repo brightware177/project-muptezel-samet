@@ -2109,8 +2109,6 @@ blockquote{
     -webkit-transition: all 2s ease-in-out 0s;
     -moz-transition: all 2s ease-in-out 0s;
     -o-transition: all 2s ease-in-out 0s;
-    width: 360px;
-    height: 216px;
     opacity: 1;
 }
 
@@ -2701,18 +2699,20 @@ blockquote{
 .header-style01 + .master-slider{
     margin-top: -185px !important;
 }
-
 .master-slider .pi-caption01{
-    color: #27b9c6;
+    color: #fffff6;
     font-size: 72px;
     font-weight: 800;
     text-transform: uppercase;
 }
-
+.master-slider .ms-slide img
+{
+    filter: brightness(70%);
+}
 .master-slider .pi-text{
     font-family: 'Raleway', 'Open Sans', Arial, sans-serif;
     font-size: 30px;
-    color: #27b9c6;
+    color: #fffff6;
 }
 
 .master-slider{
