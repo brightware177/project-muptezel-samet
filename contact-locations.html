@@ -553,11 +553,18 @@
                 $('.wpcf7 .wpcf7-submit').on('click', function (event) {
                     event.preventDefault();
                     var inquiry = $('#contact-inquiry option:selected').text();
-                    var name = $('#contact-name').val();
                     var lastname = $('#contact-last-name').val();
+                    var name = $('#contact-name').val();
                     var email = $('#contact-email').val();
+                    var adres = $('#contact-adres').val();
                     var contact_message = $('#contact-message').val();
-                    var form_data = new Array({'inquiry': inquiry, 'name': name, 'last_name': lastname, 'email': email, 'message': contact_message});
+                    var goederen = $('#contact-beschrijving-goederen').val();
+                    var referentie = $('#contact-referentie').val();
+                    var gewicht =$('#contact-gewicht').val();
+                    var afmetingen =  $('#contact-afmetingen').val();
+                    var benodigdheden = $('#contact-benodigdheden').val();
+                    var form_data = new Array({'inquiry': inquiry, 'last_name': lastname, 'name': name, 'email': email, 'adres': adres, 'message': contact_message,
+                                               'beschrijving_goederen': goederen, 'referentie': referentie, 'gewicht': gewicht, 'afmetingen': afmetingen, 'benodigdheden': benodigdheden});
                     $.ajax({
                         type: 'POST',
                         url: "contact.php",
