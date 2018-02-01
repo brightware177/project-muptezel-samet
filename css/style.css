@@ -1164,7 +1164,7 @@ a.download-link span i{
 }
 
 .img-bkg01{
-    background-image: url('../img/pics/2a063a02132638ca27b15fdb4342e4f8.jpg');
+    background-image: url('../img/slider/2014-Mercedes-Benz-Sprinter-01.jpg');
 }
 
 .img-bkg02{
@@ -1217,7 +1217,7 @@ a.download-link span i{
 }
 
 .parallax01{
-    background-image: url('../img/pics/parallax01.jpg');
+    background-image: url('../img/pics/bkg.png');
 }
 
 .parallax02{
@@ -1366,18 +1366,6 @@ a.download-link span i{
     -o-transition: all 0.2s ease 0s;
     -ms-transition: all 0.2s ease 0s;
     transition: all 0.2s ease 0s;
-}
-
-.accordion.careers .title.active::after{
-    background-image: url('../img/accordion-opened.png');
-    background-repeat: no-repeat;
-    background-position: center;
-}
-
-.accordion.careers .title:hover::after{
-    background-image: url('../img/accordion-opened.png');
-    background-repeat: no-repeat;
-    background-position: center;    
 }
 
 .accordion .content {
@@ -2105,20 +2093,15 @@ blockquote{
 
 .service-feature-box .service-media img{
     width: 100%;
-    transition: all 2s ease-in-out 0s;
-    -webkit-transition: all 2s ease-in-out 0s;
-    -moz-transition: all 2s ease-in-out 0s;
-    -o-transition: all 2s ease-in-out 0s;
+    transition: all 1s ease-in-out 0s;
+    -webkit-transition: all 1s ease-in-out 0s;
+    -moz-transition: all 1s ease-in-out 0s;
+    -o-transition: all 1s ease-in-out 0s;
     opacity: 1;
 }
-
 .service-feature-box .service-media:hover img{
-    transform: scale(1.3);
-    -webkit-transform: scale(1.3);
-    -moz-transform: scale(1.3);
-    -ms-transform: scale(1.3);
 
-    opacity: 0.7
+    opacity: 0.5;
 }
 
 .service-feature-box .service-media a{
@@ -2149,7 +2132,7 @@ blockquote{
 }
 
 .service-feature-box .service-body{
-    background-color: #fff;
+    background-color: rgb(255, 255, 255);
     padding: 20px;
 }
 
@@ -2707,7 +2690,7 @@ blockquote{
 }
 .master-slider .ms-slide img
 {
-    filter: brightness(70%);
+    filter: brightness(85%);
 }
 .master-slider .pi-text{
     font-family: 'Raleway', 'Open Sans', Arial, sans-serif;
