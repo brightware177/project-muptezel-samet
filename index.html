@@ -110,7 +110,28 @@
                                         <div id="search">
                                             <form action="#" method="get">
                                                 <input class="search-submit" type="submit" />
-                                                <input id="m_search" name="s" type="text" placeholder="Type and hit enter..." />                        
+                                                <input id="m_search" name="s" type="text"  onkeyup="myFunction()" placeholder="Type and hit enter..." />
+
+                                                <script>
+                                                    function myFunction() {
+                                                        var input, filter, ul, li, a, i, p;
+                                                        input = document.getElementById("search");
+                                                        filter = input.value.toUpperCase();
+                                                        container = document.getElementById("container");
+                                                        p = container.getElementsByTagName("p");
+                                                        for (i = 0; i < p.length; i++) {
+                                                            a = p[i].getElementsByTagName("a")[0];
+                                                            if (a.innerHTML.toUpperCase().indexOf(filter) > -1) {
+                                                                p[i].style.display = "";
+                                                            } else {
+                                                                p[i].style.display = "none";
+
+                                                            }
+                                                        }
+                                                    }
+                                                </script>
+
+
                                             </form>
                                         </div><!-- #search end -->
                                     </div><!-- MAIN NAVIGATION END -->
