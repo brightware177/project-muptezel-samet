@@ -17,18 +17,71 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="67" column="64" lean-forward="false" selection-start-line="67" selection-start-column="64" selection-end-line="67" selection-end-column="64" />
+            <state relative-caret-position="225">
+              <caret line="58" column="69" lean-forward="false" selection-start-line="58" selection-start-column="69" selection-end-line="58" selection-end-column="69" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact-locations.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="company-history.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/company-history.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="395">
+              <caret line="60" column="66" lean-forward="false" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+              <folding>
+                <element signature="e#33791#33797#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="services02.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/services02.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="363">
+              <caret line="68" column="70" lean-forward="true" selection-start-line="68" selection-start-column="70" selection-end-line="68" selection-end-column="70" />
+              <folding>
+                <element signature="n#div#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#22235#22241#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="fr.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/languages/fr.svg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nl.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/languages/nl.svg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gb.svg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/languages/gb.svg">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="English.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/img/languages/English.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact-locations.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contact-locations.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="439">
-              <caret line="350" column="86" lean-forward="false" selection-start-line="350" selection-start-column="86" selection-end-line="350" selection-end-column="86" />
+            <state relative-caret-position="201">
+              <caret line="63" column="64" lean-forward="false" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
               <folding>
                 <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -46,63 +99,14 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index02.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index02.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="122" column="80" lean-forward="false" selection-start-line="118" selection-start-column="47" selection-end-line="122" selection-end-column="80" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="responsive.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/responsive.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="11" column="2336" lean-forward="false" selection-start-line="11" selection-start-column="2336" selection-end-line="11" selection-end-column="2336" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gallery02.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="gallery02.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/gallery02.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="328" column="74" lean-forward="false" selection-start-line="328" selection-start-column="74" selection-end-line="328" selection-end-column="74" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="typeD.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/wagenpark/typeD.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="typeE.png" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/wagenpark/typeE.png">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="typeC.jpg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/img/wagenpark/typeC.jpg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="1215" column="27" lean-forward="false" selection-start-line="1215" selection-start-column="27" selection-end-line="1215" selection-end-column="27" />
-              <folding />
+            <state relative-caret-position="272">
+              <caret line="75" column="113" lean-forward="false" selection-start-line="75" selection-start-column="113" selection-end-line="75" selection-end-column="113" />
+              <folding>
+                <element signature="e#35289#35295#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -123,6 +127,7 @@
       <find>service-feature-box</find>
       <find>img-bkg</find>
       <find>wagenp</find>
+      <find>talen</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -135,11 +140,15 @@
         <option value="$PROJECT_DIR$/css/responsive.css" />
         <option value="$PROJECT_DIR$/index02.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/img/flags/nl.svg" />
+        <option value="$PROJECT_DIR$/img/languages/nl.svg" />
+        <option value="$PROJECT_DIR$/img/languages/gb.svg" />
+        <option value="$PROJECT_DIR$/img/languages/fr.svg" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/services02.html" />
         <option value="$PROJECT_DIR$/company-history.html" />
-        <option value="$PROJECT_DIR$/gallery02.html" />
+        <option value="$PROJECT_DIR$/services02.html" />
         <option value="$PROJECT_DIR$/contact-locations.html" />
+        <option value="$PROJECT_DIR$/gallery02.html" />
       </list>
     </option>
   </component>
@@ -191,7 +200,7 @@
               <item name="project-muptezel-samet" type="b2602c69:ProjectViewProjectNode" />
               <item name="project-muptezel-samet" type="462c0819:PsiDirectoryNode" />
               <item name="img" type="462c0819:PsiDirectoryNode" />
-              <item name="wagenpark" type="462c0819:PsiDirectoryNode" />
+              <item name="languages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -216,6 +225,8 @@
       <recent name="F:\Brightware 2018\Projecten\HTML\img\languages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ramazan\Desktop\Brightware\Projecten\project-muptezel-samet\img\languages" />
+      <recent name="C:\Users\Ramazan\Desktop\Brightware\Projecten\project-muptezel-samet\img\flags" />
       <recent name="E:\Websites\km-express.be\img\pics" />
       <recent name="F:\Brightware 2018\Projecten\Km-express website\img\pics" />
       <recent name="F:\Brightware 2018\Projecten\HTML\img\slider" />
@@ -275,7 +286,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37918000" />
+    <option name="totallyTimeSpent" value="39080000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
@@ -321,42 +332,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/color-blue-aqua.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1938">
-          <caret line="114" column="29" lean-forward="false" selection-start-line="114" selection-start-column="23" selection-end-line="114" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/slider/slide01.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1836">
-          <caret line="462" column="62" lean-forward="true" selection-start-line="462" selection-start-column="62" selection-end-line="462" selection-end-column="62" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11050">
-          <caret line="650" column="16" lean-forward="false" selection-start-line="650" selection-start-column="16" selection-end-line="650" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/color-blue-aqua.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1938">
@@ -608,36 +583,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/services02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="427" column="42" lean-forward="false" selection-start-line="427" selection-start-column="42" selection-end-line="427" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/company-history.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="463">
-          <caret line="568" column="42" lean-forward="false" selection-start-line="568" selection-start-column="42" selection-end-line="568" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gallery02.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="328" column="74" lean-forward="false" selection-start-line="328" selection-start-column="74" selection-end-line="328" selection-end-column="74" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="67" column="64" lean-forward="false" selection-start-line="67" selection-start-column="64" selection-end-line="67" selection-end-column="64" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/web-forms.rnc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3636">
@@ -646,12 +591,76 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/flags/nl.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/languages/English.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/languages/nl.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/languages/gb.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/languages/fr.svg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="58" column="69" lean-forward="false" selection-start-line="58" selection-start-column="69" selection-end-line="58" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/company-history.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="395">
+          <caret line="60" column="66" lean-forward="false" selection-start-line="60" selection-start-column="66" selection-end-line="60" selection-end-column="66" />
+          <folding>
+            <element signature="e#33791#33797#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/services02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="363">
+          <caret line="68" column="70" lean-forward="true" selection-start-line="68" selection-start-column="70" selection-end-line="68" selection-end-column="70" />
+          <folding>
+            <element signature="n#div#0;n#div#1;n#nav#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#22235#22241#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/contact-locations.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="439">
-          <caret line="350" column="86" lean-forward="false" selection-start-line="350" selection-start-column="86" selection-end-line="350" selection-end-column="86" />
+        <state relative-caret-position="201">
+          <caret line="63" column="64" lean-forward="false" selection-start-line="63" selection-start-column="64" selection-end-line="63" selection-end-column="64" />
           <folding>
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gallery02.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="75" column="113" lean-forward="false" selection-start-line="75" selection-start-column="113" selection-end-line="75" selection-end-column="113" />
+          <folding>
+            <element signature="e#35289#35295#0" expanded="true" />
           </folding>
         </state>
       </provider>
