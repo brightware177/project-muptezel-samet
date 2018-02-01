@@ -581,7 +581,7 @@ a.download-link span i{
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border: 1px solid #eee;
-    min-width: 240px;
+    min-width: 72px;
 
     -webkit-box-shadow: 2px 2px 5px 0px rgba(50, 50, 50, 0.2);
     -moz-box-shadow:    2px 2px 5px 0px rgba(50, 50, 50, 0.2);
@@ -2703,7 +2703,7 @@ blockquote{
 }
 
 .master-slider .pi-caption01{
-    color: #fff;
+    color: #27b9c6;
     font-size: 72px;
     font-weight: 800;
     text-transform: uppercase;
@@ -2712,7 +2712,7 @@ blockquote{
 .master-slider .pi-text{
     font-family: 'Raleway', 'Open Sans', Arial, sans-serif;
     font-size: 30px;
-    color: #fff;
+    color: #27b9c6;
 }
 
 .master-slider{
