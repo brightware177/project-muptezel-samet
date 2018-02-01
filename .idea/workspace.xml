@@ -1,19 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f2ca940-3173-44cf-845e-890f8037171a" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pics/Corporate.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pics/Distribution-Cargo-Ship-HD-wallpaper-915x515.jpg" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/img/pics/forklift-1.jpg" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/company-history.html" afterPath="$PROJECT_DIR$/company-history.html" />
-      <change beforePath="$PROJECT_DIR$/contact-locations.html" afterPath="$PROJECT_DIR$/contact-locations.html" />
-      <change beforePath="$PROJECT_DIR$/gallery02.html" afterPath="$PROJECT_DIR$/gallery02.html" />
-      <change beforePath="$PROJECT_DIR$/img/accordion-opened.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/img/pics/parallax01.jpg" afterPath="$PROJECT_DIR$/img/pics/parallax01.jpg" />
-      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change beforePath="$PROJECT_DIR$/services02.html" afterPath="$PROJECT_DIR$/services02.html" />
-    </list>
+    <list default="true" id="4f2ca940-3173-44cf-845e-890f8037171a" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -145,7 +133,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
     <option name="width" value="814" />
     <option name="height" value="867" />
@@ -260,16 +248,15 @@
       <workItem from="1517237364384" duration="976000" />
       <workItem from="1517338082578" duration="2557000" />
       <workItem from="1517412960460" duration="8246000" />
-      <workItem from="1517434499953" duration="4984000" />
+      <workItem from="1517434499953" duration="5368000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33772000" />
+    <option name="totallyTimeSpent" value="34156000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12961012" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
