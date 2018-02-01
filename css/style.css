@@ -581,7 +581,7 @@ a.download-link span i{
     -webkit-border-radius: 3px;
     -moz-border-radius: 3px;
     border: 1px solid #eee;
-    min-width: 240px;
+    min-width: 72px;
 
     -webkit-box-shadow: 2px 2px 5px 0px rgba(50, 50, 50, 0.2);
     -moz-box-shadow:    2px 2px 5px 0px rgba(50, 50, 50, 0.2);
