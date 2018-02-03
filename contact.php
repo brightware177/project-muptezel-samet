@@ -8,15 +8,22 @@
  */
 
 // please change this to your E-Mail address
-$sendTo = "support@pixel-industry.com";
+$sendTo = "ramazan.demir@brightware.be";
 
 $action = $_POST['action'];
 if ($action == 'contact') {
     $inquiry = $_POST['form_data'][0]['inquiry'];
-    $name = $_POST['form_data'][0]['name'];
     $lastname = $_POST['form_data'][0]['last_name'];
-    $email = $_POST['form_data'][0]['email'];   
+    $name = $_POST['form_data'][0]['name'];
+    $email = $_POST['form_data'][0]['email'];
+    $adres = $_POST['form_data'][0]['adres'];
     $contact_message = $_POST['form_data'][0]['message'];
+    $goederen = $_POST['form_data'][0]['beschrijving_goederen'];
+    $referentie = $_POST['form_data'][0]['referentie'];
+    $gewicht = $_POST['form_data'][0]['gewicht'];
+    $afmetingen = $_POST['form_data'][0]['afmetingen'];
+    $benodigdheden = $_POST['form_data'][0]['benodigdheden'];
+
 
     if ($name == "" || $email == "" || $contact_message == "") {
         echo "There was problem while sending E-Mail. Please verify entered data and try again!";

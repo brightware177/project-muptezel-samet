@@ -478,14 +478,14 @@
                     var contact_message = $('#contact-message').val();
                     var goederen = $('#contact-beschrijving-goederen').val();
                     var referentie = $('#contact-referentie').val();
-                    var gewicht =$('#contact-gewicht').val();
+                    var gewicht =$('#contact-gewicht option:selected').text();
                     var afmetingen =  $('#contact-afmetingen').val();
-                    var benodigdheden = $('#contact-benodigdheden').val();
+                    var benodigdheden = $('#contact-benodigdheden option:selected').text();
                     var form_data = new Array({'inquiry': inquiry, 'last_name': lastname, 'name': name, 'email': email, 'adres': adres, 'message': contact_message,
                                                'beschrijving_goederen': goederen, 'referentie': referentie, 'gewicht': gewicht, 'afmetingen': afmetingen, 'benodigdheden': benodigdheden});
                     $.ajax({
                         type: 'POST',
-                        url: "contact.php",
+                        url: 'contact.php',
                         data: ({'action': 'contact', 'form_data': form_data})
                     }).done(function (data) {
                         alert(data);
