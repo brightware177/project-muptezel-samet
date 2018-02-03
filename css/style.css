@@ -1461,7 +1461,15 @@ blockquote{
     position: relative;
     top: 30px;
 }
-
+.flexcontainer {
+    display: flex;
+    align-items: center;
+}
+@media (max-width: 320px) {
+    .flexcontainer {
+        display: block;
+    }
+}
 
 
 /*
@@ -2323,7 +2331,6 @@ blockquote{
     ------------------------------------------------------------------------- */
 .service-icon-center-boxed{
     width: 100%;
-    background-color: #fcfcfc;
     padding: 30px 20px;
 }
 
@@ -2362,11 +2369,10 @@ blockquote{
     7.23. SERVICES ICON LEFT 
     ------------------------------------------------------------------------- */
 .service-icon-left{
-    width: 100%;
+width: 100%;
 }
-
 .service-icon-left .icon-container{
-    float: left;
+    float: right;
     width: 100px;
     height: 100px;
     background-color: #fff;
@@ -3032,6 +3038,13 @@ blockquote{
 
 /*  7.37. VEHICLE GALLERY FULL
     ------------------------------------------------------------------------- */
+.wagenpark-unordered-list li{
+    font-size: 16px;
+    line-height: 35px;
+}
+.wagenpark-unordered-list{
+    list-style-type: square;
+}
 .vehicle-gallery .col-md-3{
     padding: 0;
     list-style: none;
