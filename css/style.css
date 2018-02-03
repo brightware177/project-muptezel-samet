@@ -1429,7 +1429,7 @@ blockquote{
     font-size: 11px;
 }
 
-.btn-yellow{
+.btn-orange{
     background-color: #fac312 !important;
 }
 
@@ -1439,8 +1439,8 @@ blockquote{
     margin: 0 auto;
 }
 
-.btn-yellow:hover{
-    background-color: #fcc820 !important;
+.btn-orange:hover{
+    background-color: #fcda08 !important;
 }
 
 
