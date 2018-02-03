@@ -154,13 +154,15 @@
 
                     <div class="col-md-4 clearfix">
                         <!-- .contact form start -->
-                        <form class="wpcf7">
+                        <form id="gform" class="wpcf7" method="POST"
+                            action="https://script.google.com/macros/u/0/s/AKfycbyuLqyhHl4kYrazhbgEBhvMYIPH0q_yMtVWT01lr7Vb7qQus9hc/exec">
+
                             <fieldset>
                                 <label>
                                     <span class="required">*</span> Uw aanvraag:
                                 </label>
 
-                                <select class="wpcf7-form-control-wrap wpcf7-select" id="contact-inquiry">
+                                <select class="wpcf7-form-control-wrap wpcf7-select" id="contact-inquiry" name="inquiry">
                                     <option value="Ik wil een transport aanvragen">Ik wil een transport aanvragen</option>
                                     <option value="Ik wil een vraag stellen">Ik wil een vraag stellen</option>
                                     <!--<option value="I want to become your partner">I want to become your partner</option>
@@ -173,7 +175,7 @@
                                     <span class="required">*</span> Naam:
                                 </label>
 
-                                <input type="text" class="wpcf7-text" id="contact-last-name">
+                                <input type="text" class="wpcf7-text" id="contact-last-name" name="lastname">
                             </fieldset>
 
                             <fieldset>
@@ -181,7 +183,7 @@
                                     <span class="required">*</span> Voornaam:
                                 </label>
 
-                                <input type="text" class="wpcf7-text" id="contact-name">
+                                <input type="text" class="wpcf7-text" id="contact-name" name="name">
                             </fieldset>
 
                             <fieldset>
@@ -189,7 +191,7 @@
                                     <span class="required">*</span> Emailadres:
                                 </label>
 
-                                <input type="url" class="wpcf7-text" id="contact-email">
+                                <input type="url" class="wpcf7-text" id="contact-email" name="email">
                             </fieldset>
 
                             <fieldset>
@@ -197,7 +199,7 @@
                                      Adres:
                                 </label>
 
-                                <input type="text" class="wpcf7-text" id="contact-adres">
+                                <input type="text" class="wpcf7-text" id="contact-adres" name="adres">
                             </fieldset>
 
                             <fieldset>
@@ -205,7 +207,7 @@
                                     Vraag:
                                 </label>
 
-                                <textarea rows="6" class="wpcf7-textarea" id="contact-message"></textarea>
+                                <textarea rows="6" class="wpcf7-textarea" id="contact-message" name="contact_message"></textarea>
                             </fieldset>
 
 
@@ -219,7 +221,7 @@
                                 <label>
                                     Beschrijving goederen:
                                 </label>
-                                <textarea rows="4" class="wpcf7-textarea" id="contact-beschrijving-goederen"></textarea>
+                                <textarea rows="4" class="wpcf7-textarea" id="contact-beschrijving-goederen" name="goederen"></textarea>
 
 
                             </fieldset>
@@ -229,7 +231,7 @@
                                     Referentie:
                                 </label>
 
-                                <input type="text" class="wpcf7-text" id="contact-referentie">
+                                <input type="text" class="wpcf7-text" id="contact-referentie" name="referentie">
                             </fieldset>
 
                             <fieldset>
@@ -237,7 +239,7 @@
                                      Gewicht:
                                 </label>
 
-                                <select class="wpcf7-form-control-wrap wpcf7-select" id="contact-gewicht">
+                                <select class="wpcf7-form-control-wrap wpcf7-select" id="contact-gewicht" name="gewicht">
                                     <option value="< 500 kg">< 500 kg</option>
                                     <option value="< 1200 kg">< 1200 kg</option>
                                     <option value="< 10000 kg">< 10000 kg</option>
@@ -250,7 +252,7 @@
                                     Afmetingen:
                                 </label>
 
-                                <input type="text" class="wpcf7-text" id="contact-afmetingen">
+                                <input type="text" class="wpcf7-text" id="contact-afmetingen" name="afmetingen">
                                 <p><i><font color="#b7b7b7">*Lengte, breedte, hoogte in m</font></i></p>
                             </fieldset>
 
@@ -259,7 +261,7 @@
                                     Benodigdheden:
                                 </label>
 
-                                <select class="wpcf7-form-control-wrap wpcf7-select" id="contact-benodigdheden">
+                                <select class="wpcf7-form-control-wrap wpcf7-select" id="contact-benodigdheden" name="benodigdheden">
                                     <option value="laadklep">Laadklep</option>
                                     <option value="transpalet">Transpalet</option>
                                     <option value="ADR goederen">ADR goederen</option>
@@ -267,6 +269,8 @@
                             </fieldset>
 
                             <input type="submit" class="wpcf7-submit" value="verzenden" />
+
+
                         </form><!-- .wpcf7 end -->
                     </div><!-- .col-md-6 end -->
                 </div><!-- .row end -->
@@ -465,10 +469,10 @@
                         };
                     })(marker, i));
                 }
-                ;
+                ;})
 
                 // CONTACT FORM AJAX SUBMIT START
-                $('.wpcf7 .wpcf7-submit').on('click', function (event) {
+               /* $('.wpcf7 .wpcf7-submit').on('click', function (event) {
                     event.preventDefault();
                     var inquiry = $('#contact-inquiry option:selected').text();
                     var lastname = $('#contact-last-name').val();
