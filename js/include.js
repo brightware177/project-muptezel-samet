@@ -18,7 +18,13 @@
         });
     });
 
-
+    $('#test-submit').on('click', function(e) {
+        $.getJSON("https://script.google.com/macros/s/AKfycbx9eb56lsCgsqAGB0M71KZ9HwBBoMQ_IhKTzIJ9RPaJuhpmP6AX/exec"+"?callback=?",
+            {method:"populate_list"},
+            function (data) {
+                alert(JSON.stringify(data));
+            });
+    });
     // SEARCH ANIMATION
     $('#header').on('click', '#search', function (e) {
         e.preventDefault();
