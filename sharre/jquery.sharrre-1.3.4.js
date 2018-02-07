@@ -43,7 +43,7 @@
         url: '',  //if you need to personnalize button url
         urlCount: false,  //if you want to use personnalize button url on global counter
         size: 'medium',
-        lang: 'en-us-US',
+        lang: 'en-uk-US',
         annotation: ''
       },
       facebook: { //http://developers.facebook.com/docs/reference/plugins/like/
@@ -65,7 +65,7 @@
         hashtags: '',
         via: '',
         related: '',
-        lang: 'en-us'
+        lang: 'en-uk'
       },
       digg: { //http://about.digg.com/downloads/button/smart
         url: '',  //if you need to personalize url button
